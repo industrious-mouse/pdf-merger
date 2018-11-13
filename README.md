@@ -3,7 +3,7 @@
 Original written by http://pdfmerger.codeplex.com/team/view<br />
 Forked from https://github.com/myokyawhtun/PDFMerger
 
-Updated 2018/11/13 — Now working with on PHP 7.2 with:
+Updated 2018/11/13 — Now working with PHP 7.2 with the following updated packages:
 
 `setasign/fpdf:1.8.1`  
 `setasign/fpdi:^2.1`
