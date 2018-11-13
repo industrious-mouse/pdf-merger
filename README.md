@@ -1,7 +1,12 @@
-#PDFMerger for PHP (PHP 5 Compatible)
+# PDFMerger for PHP (PHP 7.2 Compatible)
 
 Original written by http://pdfmerger.codeplex.com/team/view<br />
 Forked from https://github.com/myokyawhtun/PDFMerger
+
+Updated 2018/11/13 — Now working with on PHP 7.2 with:
+
+`setasign/fpdf:1.8.1`
+`setasign/fpdi:^2.1`
 
 ## Composer Compatible
 
