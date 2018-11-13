@@ -5,7 +5,7 @@ Forked from https://github.com/myokyawhtun/PDFMerger
 
 Updated 2018/11/13 — Now working with on PHP 7.2 with:
 
-`setasign/fpdf:1.8.1`
+`setasign/fpdf:1.8.1`  
 `setasign/fpdi:^2.1`
 
 ## Composer Compatible
